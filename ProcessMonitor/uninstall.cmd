@@ -1,0 +1,1 @@
+installutil /u ProcessMonitor.exe
